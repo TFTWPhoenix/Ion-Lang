@@ -7,3 +7,7 @@ Ion aims to be a granular language for those who need it. It doesnt need to be g
 ### Platforms
 
 Ion is officially supported on Linux. However using WSL if your on Windows or a VM will probably work just fine. If you have issues and are on Windows or MacOS please still report them.
+
+### How is it made?
+
+Ion is written in C++. To build Ion for yourself just run the `build.sh` file.
