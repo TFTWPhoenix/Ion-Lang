@@ -10,4 +10,4 @@ Ion is officially supported on Linux. However using WSL if your on Windows or a 
 
 ### How is it made?
 
-Ion is written in C++. To build Ion for yourself just run the `build.sh` file.
+Ion is written in C#. To build Ion for yourself just run the `build.sh` file.
