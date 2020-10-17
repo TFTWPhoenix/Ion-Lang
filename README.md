@@ -1,8 +1,9 @@
 # Ion-Lang
 The Ion Programming Language
+Simple and Powerful
 
 ### Goals of Ion
-Ion aims to be a granular language for those who need it. It doesnt need to be granular however. In the future there will be keywords like `auto` for variables and `detectType` to detect what type a given piece of data is. It will have functions like `shell()` to run a command via the users default shell.
+Ion aims to be a granular language for those who need it. It will have functions like `prc <path>` to execute a file. For other programmers it aims to be a simple language.
 
 ### Platforms
 
