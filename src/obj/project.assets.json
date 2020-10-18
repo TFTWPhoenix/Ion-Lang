@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/tftwphoenix/Files/Projects/Ion-Lang/src/ion.csproj",
+      "projectUniqueName": "/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/ion.csproj",
       "projectName": "ion",
-      "projectPath": "/media/tftwphoenix/Files/Projects/Ion-Lang/src/ion.csproj",
+      "projectPath": "/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/ion.csproj",
       "packagesPath": "/home/tftwphoenix/.nuget/packages/",
-      "outputPath": "/media/tftwphoenix/Files/Projects/Ion-Lang/src/obj/",
+      "outputPath": "/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tftwphoenix/.nuget/NuGet/NuGet.Config"

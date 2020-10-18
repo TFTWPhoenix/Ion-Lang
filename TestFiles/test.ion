@@ -1,0 +1,5 @@
+consoutln This message is coming from ION!
+consoutln hmm.
+runseparate consoutln This message was run separately from the above two.
+reg 0 = Haha text go brrrr!
+consoutln Register 0 has the value: ${0}

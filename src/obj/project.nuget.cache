@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uufPBIHMkIkwucOlScygEQh1TSQFrhIbbT+Cm4a6PBGCZOqm37lIUhVfmP7bE4qu3t9wd5vUvfeAjRffLQS9fQ==",
+  "dgSpecHash": "LbohfnsoMT5f8JA25ef3O67EfrvEnBikuaUVEFqfkh0AbErBSgv6jihv7hb3dLLMBVSJnxxcIi7Mwt1TO9TLZA==",
   "success": true,
-  "projectFilePath": "/media/tftwphoenix/Files/Projects/Ion-Lang/src/ion.csproj",
+  "projectFilePath": "/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/ion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

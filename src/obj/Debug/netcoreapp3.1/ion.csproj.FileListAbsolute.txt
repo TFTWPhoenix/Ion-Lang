@@ -11,3 +11,16 @@
 /media/tftwphoenix/Files/Projects/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.dll
 /media/tftwphoenix/Files/Projects/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.pdb
 /media/tftwphoenix/Files/Projects/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.genruntimeconfig.cache
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/bin/Debug/netcoreapp3.1/ion
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/bin/Debug/netcoreapp3.1/ion.deps.json
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/bin/Debug/netcoreapp3.1/ion.runtimeconfig.json
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/bin/Debug/netcoreapp3.1/ion.runtimeconfig.dev.json
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/bin/Debug/netcoreapp3.1/ion.dll
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/bin/Debug/netcoreapp3.1/ion.pdb
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.csprojAssemblyReference.cache
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.AssemblyInfoInputs.cache
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.AssemblyInfo.cs
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.csproj.CoreCompileInputs.cache
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.dll
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.pdb
+/media/tftwphoenix/Files/Projects/Ion-Lang/Ion-Lang/src/obj/Debug/netcoreapp3.1/ion.genruntimeconfig.cache
