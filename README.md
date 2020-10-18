@@ -3,7 +3,7 @@ The Ion Programming Language
 Simple and Powerful
 
 ### Goals of Ion
-Ion aims to be a granular language for those who need it. It will have functions like `prc <path>` to execute a file. For other programmers it aims to be a simple language.
+Ion aims to be a granular language for those who need it. It will have functions like `prc <path>` to start a process. But it will also have "comfort features."
 
 ### Platforms
 
