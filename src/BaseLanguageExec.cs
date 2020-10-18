@@ -172,6 +172,15 @@ namespace ion {
 
                 registers[int.Parse(line.Split("modulo ")[1].Split(" = ")[0])] = result.ToString();
 
+            } else if (line.StartsWith("prc ")) {
+
+                System.Diagnostics.Process prc = System.Diagnostics.Process.Start(line.Split("prc ")[1]);
+
+            } else if (line.StartsWith("prcWaitForExit ")) {
+
+                System.Diagnostics.Process prc = System.Diagnostics.Process.Start(line.Split("prcWaitForExit ")[1]);
+                prc.WaitForExit();
+
             }
  
         } 

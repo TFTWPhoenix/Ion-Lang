@@ -15,3 +15,9 @@ consoutln This is the result of 2/2: ${5}
 modulo 6 = 10%3
 consoutln The remainder of 10/3 is: ${6}
 // consoutln This wont run!
+consoutln This file will now start Firefox and then continue.
+prc /bin/firefox
+consoutln Firefox has opened.
+consoutln This file will now launch Firefox and wait until it is closed.
+prcWaitForExit /bin/firefox
+consoutln You closed Firefox!
