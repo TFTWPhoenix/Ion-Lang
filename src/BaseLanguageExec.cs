@@ -181,6 +181,10 @@ namespace ion {
                 System.Diagnostics.Process prc = System.Diagnostics.Process.Start(line.Split("prcWaitForExit ")[1]);
                 prc.WaitForExit();
 
+            } else if (line == "halt") {
+
+                while(true) {}
+
             }
  
         } 

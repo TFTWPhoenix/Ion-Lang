@@ -21,3 +21,5 @@ consoutln Firefox has opened.
 consoutln This file will now launch Firefox and wait until it is closed.
 prcWaitForExit /bin/firefox
 consoutln You closed Firefox!
+consoutln This process will now halt.
+halt
