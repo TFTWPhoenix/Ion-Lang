@@ -1,5 +1,5 @@
-consoutln This message is coming from ION!
-consoutln hmm.
+consoutln This message is coming from Ion code!
+consoutln This is on a new line!
 runseparate consoutln This message was run separately from the above two.
-reg 0 = Haha text go brrrr!
+reg 0 = This is some text!
 consoutln Register 0 has the value: ${0}
