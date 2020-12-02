@@ -8,7 +8,8 @@ Ion-Lang has gone the way of the dodo for a few reasons:
 #2. I can't get .NET to install at the moment. (I'm aware I can use mono)
 
 It has sucessors don't worry!
-The LEFBL (Lunar Executable Format Base Language) and LEF/LCE (Lunar Executable Format/Lunar Character Encoding) for a cosmos OS (probably gonna go the way of the dodo too I dont know) succeed Ion-Lang with many more features already. For platforms such as Windows, Linux, MacOS I have something in the works keep an eye out.
+
+Corvus is a planned successor to Ion.
 
 The Ion Programming Language.
 
